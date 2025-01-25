@@ -12,3 +12,6 @@ This is a fan-made, non-commercial derivative font inspired by the title font of
 
 ## Credits
 - The font is inspired by the official **Outer Wilds** title font.
+
+## Font Preview
+![Font Preview]https://github.com/Falc-0/Outer-Wilds-Typeface/blob/main/Preview.jpg
